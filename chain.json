@@ -1,29 +1,62 @@
 [
   {
+    "bat": "75",
+    "hash": "GENESIS - undefined",
     "index": 0,
-    "hash": "GENESIS",
-    "prev": "0",
-    "data": "Genesis Block - Egypt"
+    "miner": "GENESIS",
+    "temp": "35.0",
+    "time": "1:42:02 م 5/9/2026",
+    "torque": "4.8",
+    "type": "Genesis Block - Egypt"
   },
   {
-    "index": 1,
+    "bat": "75",
     "hash": "5c2462af6192cf91",
-    "prev": "GENESIS",
-    "data": "Gomr BAT:75% TEMP:35.0C TORQUE:4.8",
-    "time": "٥‏/٩‏/٢٠٢٦، ١:٤٢:٥٣ م"
+    "index": 1,
+    "miner": "Gomr",
+    "temp": "35.0",
+    "time": "1:42:02 م 5/9/2026",
+    "torque": "4.8",
+    "type": "Gomr BAT:75% TEMP:35.0C"
   },
   {
-    "index": 2,
+    "bat": "75",
     "hash": "fc8be2aa5a82ac97",
-    "prev": "5c2462af6192cf91",
-    "data": "Gomr BAT:75% TEMP:35.0C TORQUE:4.8",
-    "time": "٥‏/٩‏/٢٠٢٦، ١:٤٢:٥٩ م"
+    "index": 2,
+    "miner": "Gomr",
+    "temp": "35.0",
+    "time": "1:42:09 م 5/9/2026",
+    "torque": "4.8",
+    "type": "Gomr BAT:75% TEMP:35.0C"
   },
   {
-    "index": 3,
+    "bat": "75",
     "hash": "704bf611b884cb34",
-    "prev": "fc8be2aa5a82ac97",
-    "data": "Gomr BAT:75% TEMP:35.0C TORQUE:4.8",
-    "time": "٥‏/٩‏/٢٠٢٦، ١:٤٣:٠٢ م"
+    "index": 3,
+    "miner": "Gomr",
+    "temp": "35.0",
+    "time": "1:43:02 م 5/9/2026",
+    "torque": "4.8",
+    "type": "Gomr BAT:75% TEMP:35.0C"
+  },
+  {
+    "bat": "75",
+    "hash": "76c6b46fbacce065",
+    "index": 4,
+    "miner": "Gomr",
+    "temp": "35.0",
+    "time": "2:22:03 م 5/9/2026",
+    "torque": "4.8",
+    "type": "Gomr BAT:75% TEMP:35.0C"
+  },
+  {
+    "bat": "75",
+    "hash": "95937ace3c7d6c43",
+    "index": 5,
+    "miner": "Gomr",
+    "temp": "35.0",
+    "time": "2:23:05 م 5/9/2026",
+    "torque": "4.8",
+    "type": "Gomr BAT:75% TEMP:35.0C"
   }
 ]
